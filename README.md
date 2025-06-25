@@ -116,7 +116,7 @@ location_mapping = {
 
 작년 1년간 지역별 친환경 에너지 생산량을 그래프로 나타내었다.
 
-[region_energy_timeseries.html](region_energy_timeseries.html)
+[region_energy_timeseries.html](https://obtuse-triangle.github.io/eco-energy-analytics/region_energy_timeseries.html)
 
 ![newplot.png](images/newplot.png)
 
